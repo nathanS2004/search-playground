@@ -107,4 +107,3 @@ The `.env.example` files document configuration. Frontend Vite variables are pub
 ## Stack references
 
 [Vite documentation](https://vite.dev/guide/) · [FastAPI documentation](https://fastapi.tiangolo.com/tutorial/first-steps/)
-
